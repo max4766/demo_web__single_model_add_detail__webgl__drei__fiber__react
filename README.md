@@ -50,7 +50,7 @@ So it would seem much more natural than a model with a sole light effect.
 
 Used plane for the model's ground.
 
-Also, loaded glb expention was directly used without converting into jsx expention,
+Also, loaded glb extention was directly used without converting into jsx extention,
 
 which is why you can't find any jsx files in the directory.
 
